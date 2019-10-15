@@ -2,6 +2,6 @@
 #include<conio.h>
 void main()
 {
-printf( "holaaa edit my page");
+printf( "yeah bro i just edited it");
 getch()
 }
